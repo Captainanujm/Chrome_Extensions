@@ -1,0 +1,11 @@
+{
+    "name":"Anuj-extension",
+    "description":"get a blog posts daily",
+    "version":"1.0",
+    "action":{
+        "default_popup":"blog.html",
+        "default_icon":"blog.png"
+    },
+    "manifest_version":3
+    
+}
